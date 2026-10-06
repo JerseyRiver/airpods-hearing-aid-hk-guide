@@ -149,4 +149,4 @@ iPhone 仍可能通过 GPS 和蜂窝网络得到真实位置。建议先用 Wi�
 
 更完整的原理和失败记录：
 
-- [完整实验总结](https://gist.github.com/sanyue025-create/0aab824ef681cb76c9946bc2c23812bd)
+- [完整实验总结](https://gist.github.com/JerseyRiver/0aab824ef681cb76c9946bc2c23812bd)
